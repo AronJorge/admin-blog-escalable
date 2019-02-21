@@ -1,0 +1,12 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/iconos.css": "/css/iconos.css",
+    "/css/tema_admin.css": "/css/tema_admin.css",
+    "/js/articulos.js": "/js/articulos.js",
+    "/js/biblioteca.js": "/js/biblioteca.js",
+    "/js/categorias.js": "/js/categorias.js",
+    "/js/crear_articulos.js": "/js/crear_articulos.js",
+    "/js/roles.js": "/js/roles.js",
+    "/js/usuario.js": "/js/usuario.js"
+}
